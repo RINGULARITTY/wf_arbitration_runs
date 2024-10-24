@@ -21,11 +21,11 @@
 ### Average kills
 |         |   Average Kill per 100w |   Average Kill per 10r |
 |:--------|------------------------:|-----------------------:|
-| chroma  |                     560 |                    638 |
+| saryn   |                    4059 |                   4741 |
 | mirage  |                    2687 |                   3483 |
 | octavia |                    1334 |                   5211 |
-| saryn   |                    4059 |                   4741 |
 | volt    |                     671 |                   2197 |
+| chroma  |                     560 |                    638 |
 | wisp    |                     329 |                    756 |
 
 ### Maps
@@ -42,4 +42,4 @@
 | io      |        1 |
 
 
-Updated 2024-10-24 18:20 UTC+0
+Updated 2024-10-24 18:28 UTC+0
