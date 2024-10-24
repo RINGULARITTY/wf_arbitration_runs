@@ -12,11 +12,11 @@
 | total |      52 |       36 |     32 |       28 |     13 |         9 |     170 |
 
 ### Maps tiers
-|    |   0 |
-|:---|----:|
-| S  | 122 |
-| A  |  44 |
-| C  |   2 |
+|   0 |
+|----:|
+| 124 |
+|  44 |
+|   2 |
 
 ### Average kills
 |         |   Average Kill per 100w |   Average Kill per 10r |
@@ -29,19 +29,17 @@
 | wisp    |                     329 |                    756 |
 
 ### Maps
-|         |   0 |
-|:--------|----:|
-| cinxia  |  48 |
-| casta   |  45 |
-| seimeni |  29 |
-| odin    |  21 |
-| sechura |  11 |
-| helene  |   9 |
-| hydron  |   3 |
-| csata   |   1 |
-| semeni  |   1 |
-| paimon  |   1 |
-| io      |   1 |
+|   0 |
+|----:|
+|  48 |
+|  46 |
+|  30 |
+|  21 |
+|  11 |
+|   9 |
+|   3 |
+|   1 |
+|   1 |
 
 
-Updated 2024-10-24 18:06 UTC+0
+Updated 2024-10-24 18:16 UTC+0
