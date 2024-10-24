@@ -42,4 +42,12 @@
 | io      |        1 |
 
 
-Updated 2024-10-24 18:28 UTC+0
+### Random Stats
+| Stats        |   Value |
+|:-------------|--------:|
+| Total Rounds |     690 |
+| Total Waves  |   10100 |
+| Total Kills  |  406268 |
+
+
+Updated 2024-10-24 20:17 UTC+0
